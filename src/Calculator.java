@@ -10,7 +10,7 @@ public class Calculator {
         while(continueCalculating){
             try{
 
-                //take input jj
+                //take input
                 System.out.println("Enter A First Number: ");
                 double firstNum = Double.parseDouble(sc.nextLine());
 
